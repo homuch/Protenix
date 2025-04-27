@@ -1,0 +1,17 @@
+
+[{
+    "sequences": [
+        {
+            "proteinChain": {
+                "sequence": "MGSSHHHHHHSSGLVPRGSHMSGKIQHKAVVPAPSRIPLTLSEIEDLRRKGFNQTEIAELYGVTRQAVSWHKKTYGGRLTTRQIVQQNWPWDTRKPHDKSKAFQRLRDHGEYMRVGSFRTMSEDKKKRLLSWWKMLRDNDLVLEFDPSIEPYEGMAGGGFRYVPRDISDDDLLIRVNEHTQLTAEGELLWSWPDDIEELLSEP",
+                "count": 1,
+                "msa": {
+                    "precomputed_msa_dir": "./7r6r.msa.1",
+                    "pairing_db": "uniref100"
+                }
+            }
+        }
+    ],
+    "name": "7r6r"
+}
+]

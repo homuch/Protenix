@@ -1,0 +1,35 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MAEVIRSSAFWRSFPIFEEFDSETLCELSGIASYRKWSAGTVIFQRGDQGDYMIVVVSGRIKLSLFTPQGRELMLRQHEAGALFGEMALLDGQPRSADATAVTAAEGYVIGKKDFLALITQRPKTAEAVIRFLCAQLRDTTDRLETIALYDLNARVARFFLATLRQIHGSEMPQSANLRLTLSQTDIASILGASRPKVNRAILSLEESGAIKRADGIICCNVGRLLSIADPEEDLEHHHHHHHH",
+                    "count": 2,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/homu/Documents/IC-special-project/AlphaFold-series/Protenix/output/7pzb_need_search_msa/msa_resmsa_seq_0/0",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "CTAGGTAACATTACTCGCG",
+                    "count": 2
+                }
+            },
+            {
+                "dnaSequence": {
+                    "sequence": "GCGAGTAATGTTAC",
+                    "count": 2
+                }
+            },
+            {
+                "ligand": {
+                    "ligand": "CCD_PCG",
+                    "count": 2
+                }
+            }
+        ],
+        "name": "7pzb_need_search_msa"
+    }
+]

@@ -1,0 +1,12 @@
+[{
+    "sequences": [
+        {
+            "dnaSequence": {
+                "sequence": "TTTCGGTGGCTGTCAAGCGGGTTTCGGTGGCTGTCAAGCGGGTTTCGGTGGCTGTCAAGCGGGTTTCGGTGGCTGTCAAGCGGGCCCGCTTGACAGCCACCGAAAGTTTCGGTGGCTGTCAAGCGGGCCCGCTTGACAGCCACCGAAAGCTGTCAAGCGGGCCCGCTTGACAGCCACCGAAA",
+                "count": 1
+            }
+        }
+    ],
+    "name": "len182"
+}
+]

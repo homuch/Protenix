@@ -145,13 +145,13 @@ class InferenceRunner(object):
 
         data = to_device(data, self.device)
         with enable_amp:
-            prediction, _, _ = self.model(
+            prediction, _, timing_dict = self.model(
                 input_feature_dict=data["input_feature_dict"],
                 label_full_dict=None,
                 label_dict=None,
                 mode="inference",
             )
-
+        print("Timing info:", timing_dict)
         return prediction
 
     def print(self, msg: str):

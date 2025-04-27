@@ -1,0 +1,18 @@
+[{
+    "sequences": [
+        {
+            "dnaSequence": {
+                "sequence": "TTTCGGTGGCTGTCAAGCGGGTTTCGGTGGCTGTCAAGCGGGTTTCGGTGGCTGTCAAGCGGGTTTCGGTGGCTGTCAAGCGGG",
+                "count": 1
+            }
+        },
+        {
+            "dnaSequence": {
+                "sequence": "CCCGCTTGACAGCCACCGAAA",
+                "count": 1
+            }
+        }
+    ],
+    "name": "7r6r"
+}
+]
